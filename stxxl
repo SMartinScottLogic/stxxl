@@ -1,0 +1,2 @@
+disk=/var/tmp/stxxl_m_###,1Gi,memory autogrow=no
+disk=/var/tmp/stxxl_###,2Gi,syscall unlink autogrow=no
